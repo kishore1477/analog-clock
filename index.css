@@ -3,7 +3,7 @@
     margin: auto;
     height: 40vw;
     width: 40vw; 
-    background: url(/images/watch.png) no-repeat;
+    background: url(images/watch.png) no-repeat;
     background-size: 100%;
 }
 
@@ -33,5 +33,14 @@
     top: 9%;
     left: 49.25%;
     opacity: 0.8; 
+    
+}
+#myname{
+    position: absolute;
+    transform: rotate(-55deg);
+    width: 30%;
+    height: 40%;
+    top: 40%;
+    left: 72.25%;
     
 }
